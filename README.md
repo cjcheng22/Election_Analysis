@@ -25,4 +25,4 @@
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 ### This script can be used to tally the vote result by analyzing a source CSV files with 3 fields, "Ballot ID", "County", and "Candidate".  
 #### Modification 1: The PyPoll Challenge background says there are 3 possilbe sources Mail-in Ballots, Punch Cards, ad DRE.  Three source CSV files can be used by For loop, as long as the CSV format with 3 specific fields is intact.  
-#### Modification 2: More fields in CSV can be added for analysis, for example, voter age range, voter gender, etc.
+#### Modification 2: More fields in CSV can be added for analysis, for example, voter age range, voter gender, etc.  Anotehr set of list of dictionary will need to created then loops neeeded be added to add the counts.
