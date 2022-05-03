@@ -1,6 +1,7 @@
 # Election_Analysis
 
-## Overview of Election Audit: This Election Analysis Python file will analyze a CSV file with Ballot ID, County, and Candidate and print out a report which consisits of "County Votes" with how many percentage and total vote came from each county and determines which county had the largest vote turn out, how many percentage and votes each candidate received, and declare the Name/Vote Count/Percentage of the winner in this election.  
+## Overview of Election Audit: 
+### This Election Analysis Python file will analyze a CSV file with Ballot ID, County, and Candidate and print out a report which consisits of "County Votes" with how many percentage and total vote came from each county and determines which county had the largest vote turn out, how many percentage and votes each candidate received, and declare the Name/Vote Count/Percentage of the winner in this election.  
 
 ## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 ### •How many votes were cast in this congressional election?
